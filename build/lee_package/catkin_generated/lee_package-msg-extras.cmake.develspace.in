@@ -1,0 +1,2 @@
+set(lee_package_MESSAGE_FILES "/home/wangshuange/catkin_ws/src/lee_package/msg/Num.msg")
+set(lee_package_SERVICE_FILES "/home/wangshuange/catkin_ws/src/lee_package/srv/AddTwoInts.srv")

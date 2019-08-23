@@ -1,0 +1,2 @@
+set(lee_package_MESSAGE_FILES "msg/Num.msg")
+set(lee_package_SERVICE_FILES "srv/AddTwoInts.srv")

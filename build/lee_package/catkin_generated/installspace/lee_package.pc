@@ -1,0 +1,8 @@
+prefix=/home/wangshuange/catkin_ws/install
+
+Name: lee_package
+Description: Description of lee_package
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/wangshuange/catkin_ws/install/lib 
+Requires: 
