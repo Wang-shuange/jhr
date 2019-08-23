@@ -196,8 +196,12 @@
 						}
 					]
 				}
+<<<<<<< HEAD
 			],
 			"isBuildCommand": true
+=======
+			]
+>>>>>>> 83780a92a5e44b3c3c89b501c61f16cadaf4555b
 		},
 		{
 			"taskName": "Debug (isolated)",
@@ -1153,7 +1157,12 @@
 			"taskName": "Remote Deploy",
 			"args": [
 				"echo \"Remote Arguments not configured!\""
+<<<<<<< HEAD
 			]
+=======
+			],
+			"isBuildCommand": true
+>>>>>>> 83780a92a5e44b3c3c89b501c61f16cadaf4555b
 		}
 	]
 }
